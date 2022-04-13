@@ -1,2 +1,2 @@
 # Semaforo
- Projeto feito apenas com HTML e JavaScript
+ Projeto feito com HTML, Bootstrap e JavaScript, com o objetivo de treinar JavaScript.
